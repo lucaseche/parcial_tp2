@@ -1,0 +1,25 @@
+{
+  "name": "parcial_tp2",
+  "version": "1.0.0",
+  "description": "Parcial TP2 - Lucas Echeverria",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "watch": "node --watch .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaseche/parcial_tp2.git"
+  },
+  "author": "Lucas Echeverria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaseche/parcial_tp2/issues"
+  },
+  "homepage": "https://github.com/lucaseche/parcial_tp2#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
